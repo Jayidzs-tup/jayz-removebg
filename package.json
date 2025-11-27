@@ -1,9 +1,10 @@
 {
-  "name": "jayz-removebg",
+  "name": "removebg-unlimited",
   "version": "1.0.0",
-  "main": "index.js",
   "type": "module",
   "dependencies": {
-    "rembg-node": "0.0.3"
+    "node-fetch": "^3.3.2",
+    "rembg-node": "0.0.3",
+    "form-data": "^4.0.0"
   }
 }
