@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "api/removebg.py", "use": "@vercel/python" }
+  ],
+  "routes": [
+    { "src": "/api/removebg", "dest": "api/removebg.py" }
+  ]
+}
