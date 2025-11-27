@@ -1,0 +1,10 @@
+{
+  "name": "removebg-unlimited",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "rembg-node": "^0.0.5",
+    "form-data": "^4.0.0"
+  }
+}
